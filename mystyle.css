@@ -1,0 +1,44 @@
+body {
+  box-sizing: border-box;
+}
+
+#main-div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#form-div {
+  display: block;
+  width: 95%;
+  height: 50px
+  border: 2px solid red;
+}
+
+.flex-div {
+  flex-basis: 30%;
+  margin: 1%;
+  height: 150px;
+}
+
+.color0 {
+  background-color: lightgray;
+}
+
+.color1 {
+  background-color: gray;
+}
+
+.color2 {
+  background-color: darkgray;
+}
+
+.selected {
+  border: 2px solid red;
+}
+
+
+
+.hidden {
+  visibility: hidden;
+}

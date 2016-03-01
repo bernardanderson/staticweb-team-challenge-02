@@ -1,6 +1,6 @@
-# staticweb-team-challenge-02
+# The Static Web Team Challenge \#02
 
-##Challenge \#2
+###Description
 
 1. In HTML, create 3 divs
 1. Give each div a background color
